@@ -1,0 +1,17 @@
+body{
+    background: #f857a6;  
+background: -webkit-linear-gradient(to right, #ff5858, #f857a6);  
+background: linear-gradient(to right, #ff5858, #f857a6); 
+
+}
+.copy_right_footer{
+    position: fixed;
+    color: maroon;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:lavender;
+    text-align: center;
+
+}
+  
